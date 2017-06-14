@@ -1,0 +1,49 @@
+
+Table CHECKIN dropped.
+
+Table CHECKIN_INFO dropped.
+
+
+Table BUSINESSATTRIBUTES dropped.
+
+Table BUSINESS_CATEGORY dropped.
+
+Table REVIEWS dropped.
+
+Table YELP_USER dropped.
+
+
+Table BUSINESS dropped.
+Table BUSINESS created.
+
+
+Table BUSINESS_CATEGORY created.
+
+Table YELP_USER created.
+
+
+Table REVIEWS created.
+
+Table BUSINESSATTRIBUTES created.
+
+
+Table CHECKIN_INFO created.
+
+
+Table CHECKIN created.
+
+
+Commit complete.
+
+SELECT COUNT(*) FROM YELP_USER;
+SELECT COUNT(*) FROM BUSINESS;
+SELECT COUNT(*) FROM BUSINESS_CATEGORY;
+SELECT COUNT(*) FROM BUSINESSATTRIBUTES;
+SELECT COUNT(*) FROM REVIEWS;
+
+Row counts respectively:
+211002
+20544
+51016
+462792
+826190
